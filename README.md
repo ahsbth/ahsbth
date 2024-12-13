@@ -33,7 +33,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsbth&show_icons=true&locale=en" alt="ahsbth" /></p>
 
-<p><img align="center"  width="200" height="200" src="https://github.com/ahsbth/Portfolio.io/blob/main/images/Og-removebg-preview.png/?user=ahsbth&" alt="ahsbth" /></p>
+<p><img align="center"  width="200" height="200"src="https://github.com/ahsbth/Portfolio.io/blob/main/images/Og-removebg-preview.png/?user=ahsbth&" alt="ahsbth" /></p>
+
+
 
 
 
